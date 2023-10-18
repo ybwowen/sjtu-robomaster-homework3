@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ybwowen/Desktop/source/homework3/stocks/build",
+  "command": "/usr/bin/g++   -I/usr/include/eigen3 -I/home/ybwowen/Desktop/source/homework3/stocks/usr/include/yaml-cpp -isystem /usr/local/include/opencv4  -std=c++14 -g   -o CMakeFiles/stocks.dir/main.cpp.o -c /home/ybwowen/Desktop/source/homework3/stocks/main.cpp",
+  "file": "/home/ybwowen/Desktop/source/homework3/stocks/main.cpp"
+}
+]
